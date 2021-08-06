@@ -33,7 +33,8 @@ If you need help with this or have issues with this, join our discord [server](h
 
 # Credible People
 • Jeff
-• Bleach for supplying ahego
+
+• Bleach for supplying ahego https://neko.ltd
 
 # License
 Copyright MIT © 2021 Syrinsec
