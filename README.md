@@ -1,8 +1,6 @@
 #  Termfx preview
 Shows a preview of termfx gif files created by bleach
 
-[![Discord][discord-image]][discord-url]
-
 ![](https://i.imgur.com/WtRldmW.png)
 
 **Note**: this package requires go installed and a console that supports true color
@@ -39,5 +37,3 @@ If you need help with this or have issues with this, join our discord [server](h
 
 # License
 Copyright MIT © 2021 Syrinsec
-
-[discord-url]: https://discord.gg/ZtejugY
