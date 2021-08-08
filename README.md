@@ -20,6 +20,7 @@ git clone https://github.com/syrinsec/termfx-preview.git
 
 # Usage
 ```bash
+cd termfx-preview
 go build
 ./termfx-preview -f <file path>
 ```
