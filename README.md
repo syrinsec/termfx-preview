@@ -31,7 +31,7 @@ go build
 ```
 
 # Help
-If you need help with this or have issues with this, join our discord [server](https://discord.gg/ZtejugY).
+If you need help with this or have issues with this, join our discord [server](https://discord.gg/r7QMxbrpMy).
 
 # Credible People
 • Jeff
