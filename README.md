@@ -21,6 +21,7 @@ git clone https://github.com/syrinsec/termfx-preview.git
 # Usage
 ```bash
 cd termfx-preview
+go get github.com/syrinsec/termfx
 go build
 ./termfx-preview -f <file path>
 ```
