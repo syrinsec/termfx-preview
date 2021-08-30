@@ -36,7 +36,7 @@ func main() {
   })
   data, err := ioutil.ReadFile(Path)
   if err != nil {
-    fmt.Println("Error finding termfx file", err)
+    fmt.Println("Error finding termfx file", err, "\r\nSyntax: termfx-preview -f <path>")
     return
   }
   registry.Execute(string(data), os.Stdout)
