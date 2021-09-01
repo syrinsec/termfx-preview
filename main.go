@@ -34,6 +34,11 @@ func main() {
     time.Sleep(time.Millisecond * time.Duration(sleep))
     return 0, nil
   })
+  registry.RegisterFunction("clear", func(session io.Writer, args string) (int, error) {
+    fmt.Println("c[?25l[0;0H")
+    return 0, nil
+  })
+
   data, err := ioutil.ReadFile(Path)
   if err != nil {
     fmt.Println("Error finding termfx file", err, "\r\nSyntax: termfx-preview -f <path>")
