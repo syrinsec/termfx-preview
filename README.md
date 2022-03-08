@@ -1,5 +1,5 @@
 #  Termfx preview
-Shows a preview of termfx gif files created by bleach
+Shows a preview of termfx gif files(created by bleach), module created by me. 
 
 ![](https://i.imgur.com/WtRldmW.png)
 
